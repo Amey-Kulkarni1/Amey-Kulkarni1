@@ -21,8 +21,6 @@ Aspiring to join a cybersecurity blue team, where I can leverage my skills in th
 ## Certifications
 <div>
 <a href="https://drive.google.com/file/d/1jlXe7Y-hcdg2zlLflYfWWZDUgitSGuru/view?usp=sharing">Comptia Security+</a><br>
-<a href="https://drive.google.com/file/d/1x9EJCNJ-4A6ARED4gIdWPB3pcnk5ieX_/view?usp=drive_link">NPTEL Software Engineering</a><br>
-<a href="https://drive.google.com/file/d/108DFaTgeGmfUTbVWiMPYczMEcEOJE-3h/view?usp=drive_link">NPTEL Data Analytics with Python</a><br>
 </div>
 
 ## Projects
