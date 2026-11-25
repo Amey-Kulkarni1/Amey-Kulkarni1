@@ -16,6 +16,7 @@ Aspiring to join a cybersecurity blue team, where I can leverage my skills in th
 | OS - Linux, Windows, Virtual Machines |
 | Network - Fundamentals, Common Protocols, Packet Capture and Analysis |
 | Hardware - Troubleshooting, PC Assembly |
+| Backend & Infra - Python, FastAPI, PostgreSQL, RabbitMQ, Docker, Alembic, Prometheus/Grafana |
 
 
 ## Certifications
@@ -24,4 +25,5 @@ Aspiring to join a cybersecurity blue team, where I can leverage my skills in th
 </div>
 
 ## Projects
+- **[Ingestly](https://github.com/Amey-Kulkarni1/ingestly)** — Fault-tolerant webhook & event ingestion service built with FastAPI, PostgreSQL, RabbitMQ, and Docker (HMAC-SHA256 verification, transactional outbox with `FOR UPDATE SKIP LOCKED`, two-tier idempotency, tiered TTL retry queues & DLQ replay, Prometheus/Grafana observability).
 - SOC Lab
